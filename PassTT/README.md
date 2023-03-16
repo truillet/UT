@@ -1,4 +1,4 @@
-#  
+#  Systèmes d'Exploitation Un\*x et Langage C
 
 ## Cours
 
