@@ -20,4 +20,4 @@ export LIBGL_ALWAYS_INDIRECT=1
 ```
 
 ## Travaux Pratiques
-* **TP 1** : [prise en main]() (2023)
+* **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
