@@ -1,8 +1,9 @@
-#  Systèmes d'Exploitation Un\*x et Langage C
+#  Système d'Exploitation Un\*x et Langage C
 
 ## Cours
 
 ## Quelques liens
+* Commandes [Unix](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 * D. Ritchie, [The Development of the C Language](https://dl.acm.org/doi/10.1145/155360.155580), ACM SIGPLAN Notices, Volume 28, n° 3, March 1993, pp. 201-208
 * [Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
 * [Pointer Cheat Sheet](https://c-for-dummies.com/caio/pointer-cheatsheet.php)
