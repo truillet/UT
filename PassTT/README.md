@@ -8,7 +8,8 @@
 * [Quick and Dirty Guide to C](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
 * [Pointer Cheat Sheet](https://c-for-dummies.com/caio/pointer-cheatsheet.php)
 * [Installer le sous-sytème ubuntu sous windows](https://learn.microsoft.com/fr-fr/windows/wsl/install)
-* [Serveur X et WSL2](https://medium.com/javarevisited/using-wsl-2-with-x-server-linux-on-windows-a372263533c3)
+* [Serveur X et WSL2 sous windows 10](https://medium.com/javarevisited/using-wsl-2-with-x-server-linux-on-windows-a372263533c3)
+* [Utiliser VSCode avec WSL2](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
 
 ```
 # sous WSL 2 et windows 11, un serveur X est installé [Magic] ! 
@@ -21,3 +22,4 @@ export LIBGL_ALWAYS_INDIRECT=1
 
 ## Travaux Pratiques
 * **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
+* **TP 2** :
