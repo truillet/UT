@@ -23,4 +23,4 @@ export LIBGL_ALWAYS_INDIRECT=1
 ## Travaux Pratiques
 * **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
 * **TP 2** : [premiers pas](https://github.com/truillet/UT/blob/main/PassTT/TP/TP2_Premiers_pas.pdf) (2023)
-* **TP 3** : [première fonction](https://github.com/truillet/UT/blob/main/PassTT/TP/TP2_Premiere_fonction.pdf) (2023)
+* **TP 3** : [première fonction](https://github.com/truillet/UT/blob/main/PassTT/TP/TP3_Premiere_fonction.pdf) (2023)
