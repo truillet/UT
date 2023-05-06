@@ -27,5 +27,5 @@ export LIBGL_ALWAYS_INDIRECT=1
 * **TP 3** : [première fonction](https://github.com/truillet/UT/blob/main/PassTT/TP/TP3_Premiere_fonction.pdf) (2023)
 
 ## Initiation à arduino
-* **présentation générale**
+* **[présentation générale](https://github.com/truillet/UT/blob/main/PassTT/Cours/arduino.pdf)**
 * **Code** : capteur de distance
