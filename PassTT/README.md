@@ -27,6 +27,7 @@ export LIBGL_ALWAYS_INDIRECT=1
 * **TP 2** : [premiers pas](https://github.com/truillet/UT/blob/main/PassTT/TP/TP2_Premiers_pas.pdf) (2023)
 * **TP 3** : [première fonction](https://github.com/truillet/UT/blob/main/PassTT/TP/TP3_Premiere_fonction.pdf) (2023)
 * **TP 4** : [Bibliothèque de fonctions](https://github.com/truillet/UT/blob/main/PassTT/TP/TP4_Bibliotheque.pdf) (2023)
+* **Devoir Maison** : [Quaternions](https://github.com/truillet/UT/blob/main/PassTT/TP/DM_2023.pdf)
 
 ## Initiation à arduino
 * **[présentation générale](https://github.com/truillet/UT/blob/main/PassTT/Cours/arduino.pdf)**
