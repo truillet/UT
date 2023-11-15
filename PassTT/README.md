@@ -20,7 +20,7 @@
 export DISPLAY=$(awk '/nameserver / {print $2; exit}' /etc/resolv.conf 2>/dev/null):0
 export LIBGL_ALWAYS_INDIRECT=1
 ```
-
+* [https://cheat.sh](cheat.sh)
 
 ## Travaux Pratiques
 * **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
