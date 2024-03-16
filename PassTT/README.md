@@ -1,7 +1,21 @@
-#  Système d'Exploitation Un\*x et Langage C
+#  Système d'Exploitation Un\*x, Langage C & Arduino
 
 ## Cours
-* [Types avancés en langage C](https://github.com/truillet/UT/blob/main/PassTT/Cours/types_avances_C.pdf)
+* [Introduction aux réseaux]()
+* Introduction à Arduino]()
+* [Introdcution aux Structures de données en C]()
+  * [Types avancés en langage C](https://github.com/truillet/UT/blob/main/PassTT/Cours/types_avances_C.pdf)
+
+## Travaux Pratiques
+* **TP 1** : [Introduction à Arduino]()
+  * **Code** : [capteur de distance](https://github.com/truillet/UT/blob/main/PassTT/Code/ultrason.zip)
+  
+<!-- * **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
+* **TP 2** : [premiers pas](https://github.com/truillet/UT/blob/main/PassTT/TP/TP2_Premiers_pas.pdf) (2023)
+* **TP 3** : [première fonction](https://github.com/truillet/UT/blob/main/PassTT/TP/TP3_Premiere_fonction.pdf) (2023)
+* **TP 4** : [Bibliothèque de fonctions](https://github.com/truillet/UT/blob/main/PassTT/TP/TP4_Bibliotheque.pdf) (2023)
+* **Devoir Maison** : [Quaternions](https://github.com/truillet/UT/blob/main/PassTT/TP/DM_2023.pdf) (2023)
+-->
 
 ## Quelques liens
 * Commandes [Unix](https://en.wikipedia.org/wiki/List_of_Unix_commands)
@@ -22,13 +36,4 @@ export LIBGL_ALWAYS_INDIRECT=1
 ```
 * [cheat.sh](https://cheat.sh)
 
-## Travaux Pratiques
-* **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
-* **TP 2** : [premiers pas](https://github.com/truillet/UT/blob/main/PassTT/TP/TP2_Premiers_pas.pdf) (2023)
-* **TP 3** : [première fonction](https://github.com/truillet/UT/blob/main/PassTT/TP/TP3_Premiere_fonction.pdf) (2023)
-* **TP 4** : [Bibliothèque de fonctions](https://github.com/truillet/UT/blob/main/PassTT/TP/TP4_Bibliotheque.pdf) (2023)
-* **Devoir Maison** : [Quaternions](https://github.com/truillet/UT/blob/main/PassTT/TP/DM_2023.pdf) (2023)
 
-## Initiation à arduino
-* **[présentation générale](https://github.com/truillet/UT/blob/main/PassTT/Cours/arduino.pdf)**
-* **Code** : [capteur de distance](https://github.com/truillet/UT/blob/main/PassTT/Code/ultrason.zip)
