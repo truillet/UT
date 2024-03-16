@@ -1,13 +1,13 @@
 #  Système d'Exploitation Un\*x, Langage C & Arduino
 
 ## Cours
-* [Introduction aux réseaux]()
-* Introduction à Arduino]()
-* [Introdcution aux Structures de données en C]()
+* [Introduction aux réseaux](https://github.com/truillet/UT/blob/main/PassTT/Cours/introduction_reseaux.pdf) (2024)
+* Introduction à Arduino](https://github.com/truillet/UT/blob/main/PassTT/Cours/introduction_arduino.pdf) (2024)
+* [Introduction aux Structures de données en C](https://github.com/truillet/UT/blob/main/PassTT/Cours/introduction_SdD.pdf) (2024)
   * [Types avancés en langage C](https://github.com/truillet/UT/blob/main/PassTT/Cours/types_avances_C.pdf)
 
 ## Travaux Pratiques
-* **TP 1** : [Introduction à Arduino]()
+* **TP 1** : [Introduction à Arduino](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Arduino.pdf) (2024)
   * **Code** : [capteur de distance](https://github.com/truillet/UT/blob/main/PassTT/Code/ultrason.zip)
   
 <!-- * **TP 1** : [prise en main](https://github.com/truillet/UT/blob/main/PassTT/TP/TP1_Prise_en_main.pdf) (2023)
